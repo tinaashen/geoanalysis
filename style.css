@@ -1,0 +1,45 @@
+/* Set the background color of the body */
+body {
+  background-color: #f2f2f2;
+}
+
+/* Center the headings and add a bottom margin */
+.Title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: blue;
+}
+
+/* Add a top margin to the dropdowns */
+.dcc-dropdown {
+  margin-top: 10px;
+}
+
+/* Set the font size and line height of the dropdown options */
+.dcc-dropdown-menu div {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* Set the font size of the dropdown value */
+.dcc-dropdown-value {
+  font-size: 16px;
+}
+
+/* Set the height of the graph container */
+.dcc-graph-container {
+  height: 400px;
+}
+
+/* Set the margin and padding of the overall container */
+#overall-container {
+  margin: 0 auto;
+  padding: 50px;
+}
+
+/* Set the margin and padding of the individual containers */
+#pvb-container, #eoc-container {
+  margin-bottom: 50px;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
